@@ -1,2 +1,3 @@
-# homebrew-synergkym
-Homebrew cask for http://synergykm.com
+# Install
+
+    brew cask install agnoster/synergykm/synergy
