@@ -1,8 +1,8 @@
 cask :v1 => 'synergy' do
-  version '1.6.2'
-  sha256 '259dd8367e0d9b6152e93d50854687d54714f649b6b018949621ba2194b3f987'
+  version '1.6.3'
+  sha256 '6de92ae0a227c8ce3df2bd4f010adb015cf6d9059595cc4a5d647d878929054a'
 
-  url 'http://synergykm.com/binaries/downloads/synergy-1.6.2-master-ebba77f-MacOSX1010-x86_64.dmg'
+  url 'http://synergykm.com/binaries/downloads/synergy-1.6.3-stable-9706252-MacOSX1010-x86_64.dmg'
   name 'Synergy'
   homepage 'http://synergykm.com/'
   license :gpl
